@@ -1,7 +1,5 @@
 ﻿Test push - Seth Rhodes
 Test push - Aaron Wank
-<<<<<<< HEAD
 Test push #2 - Seth RHodes
-=======
 Test push2 -Aaron Wank 
->>>>>>> 1d1c6c9642a6f1fa7629b84fec2ff19afcc23b87
+
